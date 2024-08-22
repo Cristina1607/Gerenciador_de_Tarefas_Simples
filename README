@@ -1,0 +1,33 @@
+# Gerenciador de Tarefas Simples
+
+Este é um gerenciador de tarefas simples implementado em Python. O programa permite adicionar tarefas, listar as tarefas pendentes ou concluídas, e marcar tarefas como concluídas.
+
+## Funcionalidades
+
+- **Adicionar Tarefas**: Permite adicionar uma nova tarefa à lista.
+- **Listar Tarefas**: Exibe todas as tarefas adicionadas, indicando se estão pendentes ou concluídas.
+- **Concluir Tarefas**: Permite marcar uma tarefa como concluída.
+
+## Como usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+2. Navegue até o diretório do projeto:
+cd gerenciador-de-tarefas
+3. Execute o script Python:
+python gerenciador_de_tarefas.py
+4. Use as funções adicionar_tarefas(), listar_tarefas() e concluir_tarefas() para gerenciar suas tarefas.
+
+Para adicionar uma tarefa: adicionar_tarefas("Descrição da tarefa")
+Para listar as tarefas: listar_tarefas()
+Para marcar uma tarefa como concluída: concluir_tarefas(índice_da_tarefa)
+
+Requisitos
+Python 3.x
+Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
