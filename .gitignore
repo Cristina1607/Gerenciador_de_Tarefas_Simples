@@ -1,0 +1,24 @@
+
+### .gitignore
+
+```plaintext
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+Gerenciador de Tarefas Simples em Python
+
+Descrição: Este projeto consiste em um gerenciador de tarefas simples desenvolvido em Python. Ele permite adicionar tarefas, listar as tarefas atuais (indicando se estão pendentes ou concluídas) e marcar tarefas como concluídas. O projeto é ideal para quem está começando a programar e quer praticar manipulação de listas e dicionários em Python.
+
+Instruções:
+
+1. Clone o repositório do projeto.
+2. Abra o terminal e navegue até o diretório do projeto.
+3. Execute o script Python para começar a gerenciar suas tarefas.
+4. Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
+Objetivo: O objetivo deste projeto é praticar a manipulação de listas e dicionários em Python, além de criar uma ferramenta simples para gerenciamento de tarefas pessoais.
