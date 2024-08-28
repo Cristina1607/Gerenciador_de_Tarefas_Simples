@@ -13,7 +13,7 @@ Este é um gerenciador de tarefas simples implementado em Python. O programa per
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+   git clone https://github.com/Cristina1607/gerenciador-de-tarefas.git
 2. Navegue até o diretório do projeto:
 cd gerenciador-de-tarefas
 3. Execute o script Python:
